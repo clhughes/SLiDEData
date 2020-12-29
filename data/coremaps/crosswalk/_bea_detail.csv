@@ -1,0 +1,453 @@
+bea_code,detail_code,bea_desc,category
+327910,abr_nmp,Abrasive product manufacturing,goods
+541200,acc_tsv,"Accounting, tax preparation, bookkeeping, and payroll services",goods
+333415,acn_mch,"Air conditioning, refrigeration, and warm air heating equipment manufacturing",goods
+325520,adh_che,Adhesive manufacturing,goods
+541800,adv_tsv,"Advertising, public relations, and related services",goods
+334512,aec_cep,Automatic environmental control manufacturing,goods
+336412,aen_ote,Aircraft engine and engine parts manufacturing,goods
+333912,agc_mch,Air and gas compressor manufacturing,goods
+524200,agn_ins,"Insurance agencies, brokerages, and related activities",goods
+711A00,agt_art,Promoters of performing arts and sports and agents for public figures,goods
+481000,air_air,Air transportation,goods
+333413,air_mch,Industrial and commercial fan and blower and air purification equipment manufacturing,goods
+336411,air_ote,Aircraft manufacturing,goods
+331313,ala_pmt,Alumina refining and primary aluminum production,goods
+334516,ali_cep,Analytical laboratory instrument manufacturing,goods
+33131B,alu_pmt,Aluminum product manufacturing from purchased aluminum,goods
+721000,amd_amd,Accommodation,goods
+33299A,amn_fmt,"Ammunition, arms, ordnance, and accessories manufacturing",goods
+713100,amu_rec,Amusement parks and arcades,goods
+315000,app_alt,Apparel manufacturing,goods
+541300,arc_tsv,"Architectural, engineering, and related services",goods
+31161A,asp_fbp,"Animal (except poultry) slaughtering, rendering, and processing",goods
+339920,ath_mmf,Sporting and athletic goods manufacturing,goods
+336111,atm_mot,Automobile manufacturing,goods
+811100,atr_osv,Automotive repair and maintenance,goods
+334300,aud_cep,Audio and video equipment manufacturing,goods
+532100,aut_rnt,Automotive equipment rental and leasing,goods
+T013,basicsupply,Total product supply (basic prices),
+VABAS,basicvalueadded,Value added (basic value),
+332991,bbr_fmt,Ball and roller bearing manufacturing,goods
+1121A0,bef_agr,"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",goods
+312120,ber_fbp,Breweries,goods
+325414,bio_che,Biological product (except diagnostic) manufacturing,goods
+511130,bok_pub,Book publishers,goods
+336612,bot_ote,Boat building,goods
+326160,bot_pla,Plastics bottle manufacturing,goods
+334220,brd_cep,Broadcast and wireless communications equipment,goods
+311810,brd_fbp,Bread and bakery product manufacturing,goods
+311230,brk_fbp,Breakfast cereal manufacturing,goods
+3363A0,brk_mot,"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",goods
+561400,bsp_adm,Business support services,goods
+444000,bui_ott,Building material and garden equipment and supplies dealers,goods
+337110,cab_fpd,Wood kitchen cabinet and countertop manufacturing,goods
+336214,cam_mot,Travel trailer and camper manufacturing,goods
+311420,can_fbp,"Fruit and vegetable canning, pickling, and drying",goods
+5241XX,car_ins,"Insurance carriers, except direct life",goods
+713200,cas_rec,Gambling industries (except casino hotels),goods
+515200,cbl_brd,Cable and other subscription programming,goods
+335991,cbn_eec,Carbon and graphite product manufacturing,goods
+332800,ceh_fmt,"Coating, engraving, heat treating and allied activities",goods
+F03000,changinv,Change in private inventories,finaldemand
+311615,chk_fbp,Poultry processing,goods
+311513,chs_fbp,Cheese manufacturing,goods
+MADJ,ciffob,CIF/FOB Adjustments on Imports,
+312200,cig_fbp,Tobacco product manufacturing,goods
+813B00,civ_osv,"Civic, social, professional, and similar organizations",goods
+448000,clo_ott,Clothing and clothing accessories stores,goods
+327100,cly_nmp,Clay product and refractory manufacturing,goods
+335920,cme_eec,Communication and energy wire and cable manufacturing,goods
+624A00,cmf_soc,"Community food, housing, and other relief services, including rehabilitation services",goods
+532A00,cmg_rnt,General and consumer goods rental,goods
+327310,cmt_nmp,Cement manufacturing,goods
+327320,cnc_nmp,Ready-mix concrete manufacturing,goods
+3118A0,cok_fbp,"Cookie, cracker, pasta, and tortilla manufacturing",goods
+212100,col_min,Coal mining,goods
+532400,com_rnt,Commercial and industrial machinery and equipment rental and leasing,goods
+523A00,com_sec,Securities and commodity contracts intermediation and brokerage,goods
+V00100,compen,Compensation of employees,valueadded
+333120,con_mch,Construction machinery manufacturing,goods
+331420,cop_pmt,"Copper rolling, drawing, extruding and alloying",goods
+327330,cpb_nmp,"Concrete pipe, brick, and block manufacturing",goods
+522A00,cre_bnk,Nondepository credit intermediation and related activities,goods
+332119,crn_fmt,"Metal crown, closure, and other metal stamping (except automotive)",goods
+334112,csd_cep,Computer storage device manufacturing,goods
+334118,ctm_cep,Computer terminals and other computer peripheral equipment manufacturing,goods
+541511,cus_com,Custom computer programming services,goods
+332200,cut_fmt,Cutlery and handtool manufacturing,goods
+33351B,cut_mch,"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",goods
+327991,cut_nmp,Cut stone and stone product manufacturing,goods
+624400,day_soc,Child day care services,goods
+F06E00,def_equipment,Federal national defense: Gross investment in equipment,finaldemand
+F06N00,def_intelprop,Federal national defense: Gross investment in intellectual property products,finaldemand
+F06S00,def_structures,Federal national defense: Gross investment in structures,finaldemand
+F06C00,defense,Federal Government defense: Consumption expenditures,finaldemand
+541400,des_tsv,Specialized design services,goods
+524113,dir_ins,Direct life insurance carriers,goods
+339116,dlb_mmf,Dental laboratories,goods
+621200,dnt_amb,Offices of dentists,goods
+339114,dnt_mmf,Dental equipment and supplies manufacturing,goods
+311111,dog_fbp,Dog and cat food manufacturing,goods
+518200,dpr_dat,"Data processing, hosting, and related services",goods
+213111,drl_smn,Drilling oil and gas wells,goods
+424200,dru_wht,Drugs and druggists’ sundries,goods
+112120,dry_agr,Dairy cattle and milk production,goods
+311514,dry_fbp,"Dry, condensed, and evaporated dairy product manufacturing",goods
+812300,dry_osv,Dry-cleaning and laundry services,goods
+4200ID,dut_wht,Customs duties,goods
+MDTY,duties,Import duties,
+561700,dwe_adm,Services to buildings and dwellings,goods
+334111,ecm_cep,Electronic computer manufacturing,goods
+233262,edu_con,Educational and vocational structures,goods
+GSLGE,edu_slg,State and local government educational services,goods
+334510,eea_cep,Electromedical and electrotherapeutic apparatus manufacturing,goods
+336320,eee_mot,Motor vehicle electrical and electronic equipment manufacturing,goods
+112300,egg_agr,Poultry and egg production,goods
+335110,elb_eec,Electric lamp bulb and part manufacturing,goods
+S00101,ele_fen,Federal electric utilities,goods
+S00202,ele_sle,State and local government electric utilities,goods
+221100,ele_uti,"Electric power generation, transmission, and distribution",goods
+425000,ele_wht,Wholesale electronic markets and agents and brokers,goods
+334515,els_cep,Electricity and signal testing instruments manufacturing,goods
+561300,emp_adm,Employment services,goods
+S00203,ent_sle,Other state and local government enterprises,goods
+5416A0,env_tsv,Environmental and other technical consulting services,goods
+811200,eqr_osv,Electronic and precision equipment repair and maintenance,goods
+F02E00,equipment,Nonresidential private fixed investment in equipment,finaldemand
+F04000,exports,Exports of goods and services,
+332996,fab_fmt,Fabricated pipe and pipe fitting manufacturing,goods
+561200,fac_adm,Facilities support services,goods
+311225,fat_fbp,Fats and oils refining and blending,goods
+445000,fbt_fbt,Food and beverage stores,goods
+S00500,fdd_fdd,Federal general government (defense),goods
+F07E00,fed_equipment,Federal nondefense: Gross investment in equipment,finaldemand
+F07N00,fed_intelprop,Federal nondefense: Gross investment in intellectual property products,finaldemand
+F07S00,fed_structures,Federal nondefense: Gross investment in structures,finaldemand
+114000,fht_fof,"Fishing, hunting and trapping",goods
+525000,fin_fin,"Funds, trusts, and other financial vehicles",goods
+33399B,fld_mch,Fluid power process machinery,goods
+111400,flo_agr,"Greenhouse, nursery, and floriculture production",goods
+311210,flr_fbp,Flour milling and malt manufacturing,goods
+325310,fmf_che,Fertilizer manufacturing,goods
+331510,fmf_pmt,Ferrous metal foundries,goods
+313200,fml_tex,Fabric mills,goods
+S00600,fnd_fnd,Federal general government (nondefense),goods
+326140,fom_pla,Polystyrene foam product manufacturing,goods
+333111,frm_mch,Farm machinery and equipment manufacturing,goods
+33211A,fss_fmt,"All other forging, stamping, and sintering",goods
+722110,ful_res,Full-service restaurants,goods
+812200,fun_osv,Death care services,goods
+313100,fyt_tex,"Fiber, yarn, and thread mills",goods
+311410,fzn_fbp,Frozen food manufacturing,goods
+336310,gas_mot,Motor vehicle gasoline engine and engine parts manufacturing,goods
+447000,gas_ott,Gasoline stations,goods
+221200,gas_uti,Natural gas distribution,goods
+327200,gla_nmp,Glass and glass product manufacturing,goods
+452000,gmt_gmt,General merchandise stores,goods
+485000,grd_grd,Transit and ground passenger transportation,goods
+1111B0,grn_agr,Grain farming,goods
+424400,gro_wht,Grocery and related product wholesalers,goods
+813A00,grt_osv,"Grantmaking, giving, and social advocacy organizations",goods
+335221,hca_eec,Household cooking appliance manufacturing,goods
+233210,hcs_con,Health care structures,goods
+332500,hdw_fmt,Hardware manufacturing,goods
+333414,hea_mch,Heating equipment (except warm air furnaces) manufacturing,goods
+446000,hea_ott,Health and personal care stores,goods
+GSLGH,hea_slg,State and local government hospitals and health services,goods
+811400,hgr_osv,Personal and household goods repair and maintenance,goods
+423600,hha_wht,Household appliances and electrical and electronic goods,goods
+335224,hle_eec,Household laundry equipment manufacturing,goods
+621600,hom_amb,Home health care services,goods
+336213,hom_mot,Motor home manufacturing,goods
+622000,hos_hos,Hospitals,goods
+335222,hrf_eec,Household refrigerator and home freezer manufacturing,goods
+336120,htr_mot,Heavy duty truck manufacturing,goods
+311520,ice_fbp,Ice cream and frozen dessert manufacturing,goods
+337127,ifm_fpd,Institutional furniture manufacturing,goods
+624100,ifs_soc,Individual and family services,goods
+325120,igm_che,Industrial gas manufacturing,goods
+333511,imm_mch,Industrial mold manufacturing,goods
+S00300,imp_oth,Noncomparable imports,goods
+MCIF,imports,Imports,
+811300,imr_osv,Commercial and industrial machinery and equipment repair and maintenance,goods
+711500,ind_art,"Independent artists, writers, and performers",goods
+T018,industryoutput,Total industry output (basic value),
+519130,int_dat,Internet publishing and broadcasting and Web search portals,goods
+533000,int_rnt,Lessors of nonfinancial intangible assets,goods
+F02N00,intelprop,Nonresidential private fixed investment in intellectual property products,finaldemand
+T005,interm,Total intermediate inputs,
+561600,inv_adm,Investigation and security services,goods
+325413,inv_che,In-vitro diagnostic substance manufacturing,goods
+333994,ipf_mch,Industrial process furnace and oven manufacturing,goods
+334513,ipv_cep,Industrial process variable instruments manufacturing,goods
+331110,irn_pmt,Iron and steel mills and ferroalloy manufacturing,goods
+334517,irr_cep,Irradiation apparatus manufacturing,goods
+339910,jwl_mmf,Jewelry and silverware manufacturing,goods
+621500,lab_amb,Medical and diagnostic laboratories,goods
+326130,lam_pla,"Laminated plastics plate, sheet (except packaging), and shape manufacturing",goods
+316000,lea_alt,Leather and allied product manufacturing,goods
+212230,led_min,"Copper, nickel, lead, and zinc mining",goods
+541100,leg_leg,Legal services,goods
+722211,lim_res,Limited-service restaurants,goods
+314120,lin_tex,Curtain and linen mills,goods
+327400,lme_nmp,Lime and gypsum product manufacturing,goods
+113000,log_fof,Forestry and logging,goods
+335120,ltf_eec,Lighting fixture manufacturing,goods
+336112,ltr_mot,Light truck and utility vehicle manufacturing,goods
+333112,lwn_mch,Lawn and garden equipment manufacturing,goods
+5111A0,mal_pub,"Directory, mailing list, and other publishers",goods
+550000,man_man,Management of companies and enterprises,goods
+TRADE,margins,Trade margins,
+333920,mat_mch,Material handling equipment manufacturing,goods
+336211,mbd_mot,Motor vehicle body manufacturing,goods
+325411,mbm_che,Medicinal and botanical manufacturing,goods
+332710,mch_fmt,Machine shops,goods
+333613,mch_mch,Mechanical power transmission equipment manufacturing,goods
+423800,mch_wht,"Machinery, equipment, and supplies",goods
+336991,mcl_ote,"Motorcycle, bicycle, and parts manufacturing",goods
+333517,mct_mch,Machine tool manufacturing,goods
+492000,mes_otr,Couriers and messengers,goods
+233230,mfs_con,Manufacturing structures,goods
+541610,mgt_tsv,Management consulting services,goods
+321910,mil_wpd,Millwork,goods
+333130,min_mch,Mining and oil and gas field machinery manufacturing,goods
+336414,mis_ote,Guided missile and space vehicle manufacturing,goods
+5419A0,mkt_tsv,"All other miscellaneous professional, scientific, and technical services",goods
+31151A,mlk_fbp,Fluid milk and butter manufacturing,goods
+336992,mlt_ote,"Military armored vehicle, tank, and tank component manufacturing",goods
+334610,mmo_cep,Manufacturing and reproducing magnetic and optical media,goods
+327999,mnm_nmp,Miscellaneous nonmetallic mineral products,goods
+52A000,mon_bnk,Monetary authorities and depository credit intermediation,goods
+233412,mrs_con,Multifamily residential structures,goods
+332430,mtc_fmt,"Metal can, box, and other metal container (light gauge) manufacturing",goods
+335312,mtg_eec,Motor and generator manufacturing,goods
+332420,mtt_fmt,Metal tank (heavy gauge) manufacturing,goods
+423100,mtv_wht,Motor vehicle and motor vehicle parts and supplies,goods
+712000,mus_art,"Museums, historical sites, zoos, and parks",goods
+441000,mvt_mvt,Motor vehicle and parts dealers,goods
+623A00,ncc_nrs,Nursing and community care facilities,goods
+424A00,ndg_wht,Other nondurable goods merchant wholesalers,goods
+5191A0,new_dat,"News syndicates, libraries, archives and all other information services",goods
+511110,new_pub,Newspaper publishers,goods
+331520,nff_pmt,Nonferrous metal foundries,goods
+331490,nfm_pmt,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",goods
+230301,nmr_con,Nonresidential maintenance and repair,goods
+331410,nms_pmt,Nonferrous Metal (except Aluminum) Smelting and Refining,goods
+454000,non_ott,Nonstore retailers,goods
+F07C00,nondefense,Federal Government nondefense: Consumption expenditures,finaldemand
+337122,nup_fpd,Nonupholstered wood household furniture manufacturing,goods
+111300,nut_agr,Fruit and tree nut farming,goods
+311119,oaf_fbp,Other animal food manufacturing,goods
+336413,oar_ote,Other aircraft parts and auxiliary equipment manufacturing,goods
+621900,oas_amb,Other ambulatory health care services,goods
+325180,obi_che,Other Basic Inorganic Chemical Manufacturing,goods
+325190,obo_che,Other basic organic chemical manufacturing,goods
+334290,oce_cep,Other communications equipment manufacturing,goods
+3259A0,och_che,All other chemical product and preparation manufacturing,goods
+333318,oci_mch,Other commercial and service industry machinery manufacturing,goods
+327390,ocp_nmp,Other concrete product manufacturing,goods
+54151A,ocs_com,"Other computer related services, including facilities management",goods
+423A00,odg_wht,Other durable goods merchant wholesalers,goods
+33441A,oec_cep,Other electronic component manufacturing,goods
+335999,oee_eec,All other miscellaneous electrical equipment and component manufacturing,goods
+333618,oee_mch,Other engine equipment manufacturing,goods
+611B00,oes_edu,Other educational services,goods
+722A00,ofd_res,All other food and drinking places,goods
+561100,off_adm,Office administrative services,goods
+2332A0,off_con,Office and commercial structures,goods
+33721A,off_fpd,Office furniture and custom architectural woodwork and millwork manufacturing,goods
+S00102,ofg_fen,Other federal government enterprises,goods
+523900,ofi_sec,Other financial investment activities,goods
+311990,ofm_fbp,All other food manufacturing,goods
+339940,ofm_mmf,Office supplies (except paper) manufacturing,goods
+337900,ofp_fpd,Other furniture related product manufacturing,goods
+33399A,ogp_mch,Other general purpose machinery manufacturing,goods
+33712N,ohn_fpd,Other household nonupholstered furniture,goods
+621300,ohp_amb,Offices of other health practitioners,goods
+1111A0,oil_agr,Oilseed farming,goods
+211000,oil_oil,Oil and gas extraction,goods
+332999,omf_fmt,Other fabricated metal manufacturing,goods
+335228,omh_eec,Other major household appliance manufacturing,goods
+339990,omm_mmf,All other miscellaneous manufacturing,goods
+336390,omv_mot,Other Motor Vehicle Parts Manufacturing,goods
+2332D0,ons_con,Other nonresidential structures,goods
+339115,oph_mmf,Ophthalmic goods manufacturing,goods
+326190,opm_pla,Other plastics product manufacturing,goods
+322299,opp_ppd,All other converted paper product manufacturing,goods
+812900,ops_osv,Other personal services,goods
+333314,opt_mch,Optical instrument and lens manufacturing,goods
+326290,orb_pla,Other rubber product manufacturing,goods
+2122A0,ore_min,"Iron, gold, silver, and other metal ore mining",goods
+531ORE,ore_ore,Other real estate,goods
+713900,ori_rec,Other amusement and recreation industries,goods
+332320,orn_fmt,Ornamental and architectural metal products manufacturing,goods
+2334A0,ors_con,Other residential structures,goods
+561900,oss_adm,Other support services,goods
+112A00,ota_agr,"Animal production, except cattle and poultry and eggs",goods
+111900,oth_agr,Other crop farming,goods
+2123A0,oth_min,Other nonmetallic mineral mining and quarrying,goods
+4B0000,oth_ott,All other retail,goods
+324190,oth_pet,Other petroleum and coal products manufacturing,goods
+GSLGO,oth_slg,State and local government other services,goods
+21311A,oth_smn,Other support activities for mining,goods
+T00OTOP,othtax,Other taxes on production,valueadded
+33329A,oti_mch,Other industrial machinery manufacturing,goods
+336999,otm_ote,All other transportation equipment manufacturing,goods
+314900,otp_tex,Other textile product mills,goods
+621400,out_amb,Outpatient care centers,goods
+T007,output,Total Commodity Output,
+531HSO,own_hou,Owner-occupied housing,goods
+3219A0,owp_wpd,All other wood product manufacturing,goods
+325320,pag_che,Pesticide and other agricultural chemical manufacturing,goods
+324121,pav_pet,Asphalt paving mixture and block manufacturing,goods
+322210,pbc_ppd,Paperboard container manufacturing,goods
+322130,pbm_ppd,Paperboard mills,goods
+335912,pbt_eec,Primary battery manufacturing,goods
+F01000,pce,Personal consumption expenditures,finaldemand
+423400,pce_wht,Professional and commercial equipment and supplies,goods
+812100,pcs_osv,Personal care services,goods
+511120,pdl_pub,Periodical Publishers,goods
+424700,pet_wht,Petroleum and petroleum products,goods
+711100,pfm_art,Performing arts companies,goods
+325412,phm_che,Pharmaceutical preparation manufacturing,goods
+333316,pht_mch,Photographic and photocopying equipment manufacturing,goods
+541920,pht_tsv,Photographic services,goods
+621100,phy_amb,Offices of physicians,goods
+512100,pic_mov,Motion picture and video industries,goods
+486000,pip_pip,Pipeline transportation,goods
+333993,pkg_mch,Packaging machinery manufacturing,goods
+332913,plb_fmt,Plumbing fixture fitting and trim manufacturing,goods
+326110,plm_pla,Plastics packaging materials and unlaminated film and sheet manufacturing,goods
+322110,plp_ppd,Pulp mills,goods
+332310,plt_fmt,Plate work and fabricated structural product manufacturing,goods
+325211,pmr_che,Plastics material and resin manufacturing,goods
+325510,pnt_che,Paint and coating manufacturing,goods
+312110,pop_fbp,Soft drink and ice manufacturing,goods
+322220,ppb_ppd,Paper Bag and Coated and Treated Paper Manufacturing,goods
+33391A,ppe_mch,Pump and pumping equipment manufacturing,goods
+322120,ppm_ppd,Paper mills,goods
+326120,ppp_pla,"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",goods
+334418,prc_cep,Printed circuit assembly (electronic assembly) manufacturing,goods
+325910,pri_che,Printing ink manufacturing,goods
+323110,pri_pri,Printing,goods
+33641A,pro_ote,Propulsion units and parts for space vehicles and guided missiles,goods
+814000,prv_osv,Private households,goods
+491000,pst_fen,Postal service,goods
+325110,ptr_che,Petrochemical manufacturing,goods
+233240,pwr_con,Power and communication structures,goods
+335311,pwr_eec,"Power, distribution, and specialty transformer manufacturing",goods
+332410,pwr_fmt,Power boiler and heat exchanger manufacturing,goods
+333991,pwr_mch,Power-driven handtool manufacturing,goods
+515100,rad_brd,Radio and television broadcasting,goods
+326220,rbr_pla,Rubber and plastics hoses and belting manufacturing,goods
+324110,ref_pet,Petroleum refineries,goods
+813100,rel_osv,Religious organizations,goods
+623B00,res_nrs,"Residential mental health, substance abuse, and other residential care facilities",goods
+F02R00,residential,Residential private fixed investment,finaldemand
+335314,ric_eec,Relay and industrial control manufacturing,goods
+230302,rmr_con,Residential maintenance and repair,goods
+531HST,rnt_hou,Tenant-occupied housing,goods
+332114,rol_fmt,Custom roll forming,goods
+336500,rrd_ote,Railroad rolling stock manufacturing,goods
+314110,rug_tex,Carpet and rug mills,goods
+S00900,rwa_oth,Rest of the world adjustment,goods
+115000,saf_fof,Support activities for agriculture and forestry,goods
+323120,sap_pri,Support activities for printing,goods
+339113,sas_mmf,Surgical appliance and supplies manufacturing,goods
+517A00,sat_brd,"Satellite, telecommunications resellers, and all other telecommunications",goods
+321100,saw_wpd,Sawmills and wood preservation,goods
+335911,sbt_eec,Storage battery manufacturing,goods
+48A000,sce_otr,Scenic and sightseeing transportation and support activities for transportation,goods
+541700,sci_tsv,Scientific research and development services,goods
+334511,sdn_cep,"Search, detection, and navigation instruments manufacturing",goods
+325130,sdp_che,Synthetic dye and pigment manufacturing,goods
+335210,sea_eec,Small electrical appliance manufacturing,goods
+311700,sea_fbp,Seafood product preparation and packaging,goods
+611100,sec_edu,Elementary and secondary schools,goods
+S00402,sec_use,Used and secondhand goods,goods
+334413,sem_cep,Semiconductor and related device manufacturing,goods
+511200,sfw_pub,Software publishers,goods
+339950,sgn_mmf,Sign manufacturing,goods
+324122,shn_pet,Asphalt shingle and coating materials manufacturing,goods
+336611,shp_ote,Ship building and repairing,goods
+337215,shv_fpd,"Showcase, partition, shelving, and locker manufacturing",goods
+333242,smc_mch,Semiconductor machinery manufacturing,goods
+331314,sme_pmt,Secondary smelting and alloying of aluminum,goods
+339112,smi_mmf,Surgical and medical instrument manufacturing,goods
+512200,snd_mov,Sound recording industries,goods
+311910,snk_fbp,Snack food manufacturing,goods
+325610,sop_che,Soap and cleaning compound manufacturing,goods
+311224,soy_fbp,Soybean and other oilseed processing,goods
+311940,spc_fbp,Seasoning and dressing manufacturing,goods
+333612,spd_mch,"Speed changer, industrial high-speed drive, and gear manufacturing",goods
+711200,spr_art,Spectator sports,goods
+332600,spr_fmt,Spring and wire product manufacturing,goods
+333514,spt_mch,"Special tool, die, jig, and fixture manufacturing",goods
+3252A0,srf_che,Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,goods
+S00401,srp_use,Scrap,goods
+233411,srs_con,Single-family residential structures,goods
+322230,sta_ppd,Stationery product manufacturing,goods
+F10C00,state_consume,State and local government consumption expenditures,finaldemand
+F10E00,state_equipment,State and local: Gross investment in equipment,finaldemand
+F10N00,state_intelprop,State and local: Gross investment in intellectual property products,finaldemand
+F10S00,state_invest,State and local: Gross investment in structures,finaldemand
+331200,stl_pmt,Steel product manufacturing from purchased steel,goods
+336370,stm_mot,Motor vehicle metal stamping,goods
+212310,stn_min,Stone mining and quarrying,goods
+F02S00,structures,Nonresidential private fixed investment in structures,finaldemand
+SUB,subsidies,Subsidies,
+T00SUB,subsidies,Less: Subsidies,
+311300,sug_fbp,Sugar and confectionery product manufacturing,goods
+T016,supply,Total product supply (purchaser prices),
+V00300,surplus,Gross operating surplus,valueadded
+335313,swt_eec,Switchgear and switchboard apparatus manufacturing,goods
+311930,syr_fbp,Flavoring syrup and concentrate manufacturing,goods
+541512,sys_com,Computer systems design services,goods
+TOP,tax,Tax on products,
+T00TOP,taxes,Plus: Taxes on products and imports,
+T015,taxlessubsidies,Total tax less subsidies on products,
+333611,tbn_mch,Turbine and turbine generator set units manufacturing,goods
+311920,tea_fbp,Coffee and tea manufacturing,goods
+334210,tel_cep,Telephone apparatus manufacturing,goods
+334514,tfl_cep,Totalizing fluid meter and counting device manufacturing,goods
+326210,tir_pla,Tire manufacturing,goods
+327992,tmn_nmp,Ground or treated mineral and earth manufacturing,goods
+325620,toi_che,Toilet preparation manufacturing,goods
+322291,toi_ppd,Sanitary paper product manufacturing,goods
+T017,totalbasic,Total industry supply,
+T019,totaluse,Total use of products,
+T001,totint,Total Intermediate,
+339930,toy_mmf,"Doll, toy, and game manufacturing",goods
+332720,tps_fmt,"Turned product and screw, nut, and bolt manufacturing",goods
+336350,tpw_mot,Motor vehicle transmission and power train parts manufacturing,goods
+T014,trdtrn,Total trade and transportation margins,
+484000,trk_trk,Truck transportation,goods
+336212,trl_mot,Truck trailer manufacturing,goods
+336360,trm_mot,Motor vehicle seating and interior trim manufacturing,goods
+2332C0,trn_con,Transportation structures and highways and streets,goods
+S00201,trn_sle,State and local government passenger transit,goods
+482000,trn_trn,Rail transportation,goods
+TRANS,trncost,Transportation costs,
+561500,trv_adm,Travel arrangement and reservation services,goods
+313300,txf_tex,Textile and fabric finishing and fabric coating mills,goods
+611A00,uni_edu,"Junior colleges, colleges, universities, and professional schools",goods
+337121,uph_fpd,Upholstered household furniture manufacturing,goods
+326150,ure_pla,Urethane and other foam product (except polystyrene) manufacturing,goods
+VAPRO,valueadded,Value added (producer value),
+111200,veg_agr,Vegetable and melon farming,goods
+321200,ven_wpd,"Veneer, plywood, and engineered wood product manufacturing",goods
+541940,vet_tsv,Veterinary services,goods
+33291A,vlv_fmt,Valve and fittings other than plumbing,goods
+221300,wat_uti,"Water, sewage and other systems",goods
+33451A,wcm_cep,"Watch, clock, and other measuring and controlling device manufacturing",goods
+335930,wdv_eec,Wiring device manufacturing,goods
+311221,wet_fbp,Wet corn milling,goods
+312140,why_fbp,Distilleries,goods
+517210,wls_brd,Wireless telecommunications carriers (except satellite),goods
+312130,wne_fbp,Wineries,goods
+327993,wol_nmp,Mineral wool manufacturing,goods
+493000,wrh_wrh,Warehousing and storage,goods
+562000,wst_wst,Waste management and remediation services,goods
+517110,wtl_brd,Wired telecommunications carriers,goods
+483000,wtt_wtt,Water transportation,goods

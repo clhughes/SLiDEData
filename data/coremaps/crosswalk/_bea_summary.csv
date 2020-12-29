@@ -1,0 +1,117 @@
+bea_code,summary_code,bea_desc,category
+561,adm,Administrative and support services,goods
+111CA,agr,Farms,goods
+481,air,Air transportation,goods
+315AL,alt,Apparel and leather and allied products,goods
+621,amb,Ambulatory health care services,goods
+721,amd,Accommodation,goods
+711AS,art,"Performing arts, spectator sports, museums, and related activities",goods
+T013,basicsupply,Total product supply (basic prices),
+VABAS,basicvalueadded,Value Added (basic prices),
+521CI,bnk,"Federal Reserve banks, credit intermediation, and related activities",goods
+513,brd,Broadcasting and telecommunications,goods
+334,cep,Computer and electronic products,goods
+F030,changinv,Change in private inventories,finaldemand
+325,che,Chemical products,goods
+MADJ,ciffob,CIF/FOB Adjustments on Imports,
+5415,com,Computer systems design and related services,goods
+V001,compen,Compensation of employees,valueadded
+23,con,Construction,goods
+514,dat,"Data processing, internet publishing, and other information services",goods
+F06E,def_equipment,Federal national defense: Gross investment in equipment,finaldemand
+F06N,def_intelprop,Federal national defense: Gross investment in intellectual property products,finaldemand
+F06S,def_structures,Federal national defense: Gross investment in structures,finaldemand
+F06C,defense,National defense: Consumption expenditures,finaldemand
+MDTY,duties,Import duties,
+61,edu,Educational services,goods
+335,eec,"Electrical equipment, appliances, and components",goods
+F02E,equipment,Nonresidential private fixed investment in equipment,finaldemand
+F040,exports,Exports of goods and services,
+311FT,fbp,Food and beverage and tobacco products,goods
+445,fbt,Food and beverage stores,goods
+GFGD,fdd,Federal general government (defense),goods
+F07E,fed_equipment,Federal nondefense: Gross investment in equipment,finaldemand
+F07N,fed_intelprop,Federal nondefense: Gross investment in intellectual property products,finaldemand
+F07S,fed_structures,Federal nondefense: Gross investment in structures,finaldemand
+GFE,fen,Federal government enterprises,goods
+525,fin,"Funds, trusts, and other financial vehicles",goods
+332,fmt,Fabricated metal products,goods
+GFGN,fnd,Federal general government (nondefense),goods
+113FF,fof,"Forestry, fishing, and related activities",goods
+337,fpd,Furniture and related products,goods
+452,gmt,General merchandise stores,goods
+485,grd,Transit and ground passenger transportation,goods
+622,hos,Hospitals,goods
+HS,hou,Housing,goods
+MCIF,imports,Imports,
+T018,industryoutput,Total industry output (basic prices),
+524,ins,Insurance carriers and related activities,goods
+F02N,intelprop,Nonresidential private fixed investment in intellectual property products,finaldemand
+T005,interm,Total Intermediate,
+5411,leg,Legal services,goods
+55,man,Management of companies and enterprises,goods
+Trade,margins,Trade margins,
+333,mch,Machinery,goods
+212,min,"Mining, except oil and gas",goods
+339,mmf,Miscellaneous manufacturing,goods
+3361MV,mot,"Motor vehicles, bodies and trailers, and parts",goods
+512,mov,Motion picture and sound recording industries,goods
+441,mvt,Motor vehicle and parts dealers,goods
+327,nmp,Nonmetallic mineral products,goods
+F07C,nondefense,Nondefense: Consumption expenditures,finaldemand
+623,nrs,Nursing and residential care facilities,goods
+211,oil,Oil and gas extraction,goods
+ORE,ore,Other real estate,goods
+81,osv,"Other services, except government",goods
+3364OT,ote,Other transportation equipment,goods
+Other,oth,Noncomparable imports and rest-of-the-world adjustment,goods
+T00OTOP,othtax,Other taxes on production,valueadded
+487OS,otr,Other transportation and support activities,goods
+4A0,ott,Other retail,goods
+T007,output,Total Commodity Output,
+F010,pce,Personal consumption expenditures,finaldemand
+324,pet,Petroleum and coal products,goods
+486,pip,Pipeline transportation,goods
+326,pla,Plastics and rubber products,goods
+331,pmt,Primary metals,goods
+322,ppd,Paper products,goods
+323,pri,Printing and related support activities,goods
+511,pub,"Publishing industries, except internet (includes software)",goods
+713,rec,"Amusements, gambling, and recreation industries",goods
+722,res,Food services and drinking places,goods
+F02R,residential,Residential private fixed investment,finaldemand
+532RL,rnt,Rental and leasing services and lessors of intangible assets,goods
+523,sec,"Securities, commodity contracts, and investments",goods
+GSLE,sle,State and local government enterprises,goods
+GSLG,slg,State and local general government,goods
+213,smn,Support activities for mining,goods
+624,soc,Social assistance,goods
+F10C,state_consume,State and local government consumption expenditures,finaldemand
+F10E,state_equipment,State and local: Gross investment in equipment,finaldemand
+F10N,state_intelprop,State and local: Gross investment in intellectual property products,finaldemand
+F10S,state_invest,State and local: Gross investment in structures,finaldemand
+F02S,structures,Nonresidential private fixed investment in structures,finaldemand
+SUB,subsidies,Subsidies,
+T00SUB,subsidies,Less: Subsidies,taxessubsidies
+T016,supply,Total product supply (purchaser prices),
+V003,surplus,Gross operating surplus,valueadded
+TOP,tax,Tax on products,
+T00TOP,taxes,Taxes on products and imports,taxessubsidies
+T015,taxlessubsidies,Total tax less subsidies on products,
+313TT,tex,Textile mills and textile product mills,goods
+T017,totalbasic,Total industry supply,
+T019,totaluse,Total use of products,
+T001,totint,Total Intermediate,
+T014,trdtrn,Total trade and transportation margins,
+484,trk,Truck transportation,goods
+482,trn,Rail transportation,goods
+Trans,trncost,Transport margins,
+5412OP,tsv,"Miscellaneous professional, scientific, and technical services",goods
+Used,use,"Scrap, used and secondhand goods",goods
+22,uti,Utilities,goods
+VAPRO,valueadded,Value Added (producer prices),
+42,wht,Wholesale trade,goods
+321,wpd,Wood products,goods
+493,wrh,Warehousing and storage,goods
+562,wst,Waste management and remediation services,goods
+483,wtt,Water transportation,goods
