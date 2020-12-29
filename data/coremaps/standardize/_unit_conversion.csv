@@ -1,0 +1,11 @@
+from,factor,to,ref
+millions of us dollars (USD),0.001,billions of us dollars (USD),all_gamsify.py
+thousands of us dollars (USD),1.0e-6,billions of us dollars (USD),all_gamsify.py
+us dollars (USD),1.0e-9,billions of us dollars (USD),all_gamsify.py
+billions of us dollars (USD),1.0,billions of us dollars (USD),partitionbea.gms
+million kilowatthours,0.001,billion kilowatthours,readseds.gms
+million short tons,1.0,million short tons,readseds.gms
+thousand short tons,0.001,million short tons,readseds.gms
+billion btu,0.001,trillion btu,readseds.gms
+trillion btu,1.0,trillion btu,readseds.gms
+billion kilowatthours,1.0,billion kilowatthours,
