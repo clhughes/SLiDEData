@@ -1,0 +1,45 @@
+# When merging into master, include only the contents of data/ into the directory base.
+name: Data
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+
+    # Any prerequisite steps
+    - uses: actions/checkout@v2
+
+    # Deploy to local repo
+    # https://github.com/marketplace/actions/push-git-subdirectory-as-branch
+    - name: Push git subdirectory as branch
+      uses: s0/git-publish-subdir-action@v2.4.0
+      env:
+        REPO: self
+        BRANCH: master
+        FOLDER: data
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+#       - uses: actions/checkout@v2
+
+#       # Runs a single command using the runners shell
+#       - name: Run a one-line script
+#         run: echo Hello, world!
+
+#       # Runs a set of commands using the runners shell
+#       - name: Run a multi-line script
+#         run: |
+#           echo Add other actions to build,
+#           echo test, and deploy your project.
